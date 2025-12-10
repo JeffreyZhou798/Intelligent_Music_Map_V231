@@ -13,6 +13,10 @@ This project implements a **zero-shot learning + pre-trained large model + pseud
 - **Chunk-by-Chunk Processing**: Avoids memory overflow for large compositions
 - **Pseudo-Reinforcement Learning**: Learns user preferences through interaction feedback
 
+## Live Demo
+
+  **Try It Now**: https://intelligent-music-map-v231.vercel.app/
+
 ## Features
 
 ### Music Analysis (AI-Powered)
@@ -21,10 +25,6 @@ This project implements a **zero-shot learning + pre-trained large model + pseud
 - **Similarity Grouping**: Groups A, B, C, D... based on melodic, rhythmic, harmonic features
 - **Form Identification**: Sonata Form, Rondo Form, Binary Form, etc.
 - **Confidence Visualization**: Solid/dashed borders based on AI confidence scores
-
-## Live Demo
-
-  **Try It Now**: https://intelligent-music-map-v231.vercel.app/
 
 ### Visual Mapping
 - **AI Recommendations**: 3-5 visual schemes per structure (shapes + colors + animations)
@@ -262,6 +262,7 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 ## Support
 
 For questions or support, please open an issue on GitHub.
+
 
 
 
