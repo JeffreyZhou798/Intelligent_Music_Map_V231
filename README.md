@@ -246,7 +246,22 @@ Preferences are session-based and cleared after export.
 
 MIT
 
-## Author
+## Credits
 
-Jeffrey Zhou- Music Education & AI Research
+- **AI Model**: Zhipu AI GLM-4.5-air
+- **Music Education Approach**: Orff Schulwerk
+- **Special Thanks**: 
+  - MuseScore for MusicXML format support
+  - Vue.js, Element Plus, GSAP, and D3.js communities
+  - All music educators and students who inspired this project
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit issues or pull requests.
+
+## Support
+
+For questions or support, please open an issue on GitHub.
+
+
 
