@@ -22,6 +22,10 @@ This project implements a **zero-shot learning + pre-trained large model + pseud
 - **Form Identification**: Sonata Form, Rondo Form, Binary Form, etc.
 - **Confidence Visualization**: Solid/dashed borders based on AI confidence scores
 
+## Live Demo
+
+  **Try It Now**: https://intelligent-music-map-v231.vercel.app/
+
 ### Visual Mapping
 - **AI Recommendations**: 3-5 visual schemes per structure (shapes + colors + animations)
 - **Custom Design**: Drag-and-drop visual element editor
@@ -244,4 +248,5 @@ MIT
 
 ## Author
 
-Zhou Zhiyu - Music Education & AI Research
+Jeffrey Zhou- Music Education & AI Research
+
